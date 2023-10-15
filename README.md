@@ -14,7 +14,7 @@ Photo sharing and photo storage services like to have location data for each pho
 
 If no location metadata for an image is available, one way to infer the location is to detect and classify a discernable landmark in the image. Given the large number of landmarks across the world and the immense volume of images that are uploaded to photo sharing services, using human judgement to classify these landmarks would not be feasible.
 
-In this project, you will take the first steps towards addressing this problem by building a CNN-powered app to automatically predict the location of the image based on any landmarks depicted in the image. At the end of this project, your app will accept any user-supplied image as input and suggest the top k most relevant landmarks from 50 possible landmarks from across the world.
+In this project, we will take the first steps towards addressing this problem by building a CNN-powered app to automatically predict the location of the image based on any landmarks depicted in the image. At the end of this project, our app will accept any user-supplied image as input and suggest the top k most relevant landmarks from 50 possible landmarks from across the world.
 
 
 ## Setting up locally
