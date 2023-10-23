@@ -35,7 +35,7 @@ This setup requires a bit of familiarity with creating a working deep learning e
 	
 	```
         pip install jupyterlab
-		jupyter lab
+	jupyter lab
 	```
 
 ## Dataset Info
